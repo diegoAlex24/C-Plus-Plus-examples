@@ -22,7 +22,11 @@ int main (){
 ### Contenido
 
 1. programa_1.cpp
-    * 
+    * Indroducción
+    * Variable entero y su impresion uso
+    * Cadena y la función getchar()
+    * Si using namespace std
+    * Registro Struct
 
 [Repositorio](https://github.com/diegoAlex24/C-Plus-Plus-examples).
 
